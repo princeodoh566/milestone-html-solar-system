@@ -1,5 +1,5 @@
-# milestone-html-solar-system# 
-Solar System Data — TS Academy HTML Milestone
+
+# Solar System Data — TS Academy HTML Milestone
 
 A single-page HTML/CSS site exploring the solar system through data — built as a milestone assignment for TS Academy's frontend development track.
 
