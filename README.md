@@ -17,7 +17,7 @@ This project recreates a Figma mockup using plain HTML and CSS, covering:
 ## Live demo
 
 - CodePen: https://codepen.io/princeodoh566/pen/OPpgvqb
-- GitHub Pages: [add once deployed]
+- GitHub Pages: https://github.com/princeodoh566/milestone-html-solar-system
 
 ## Built with
 
