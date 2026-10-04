@@ -16,7 +16,7 @@ This project recreates a Figma mockup using plain HTML and CSS, covering:
 
 ## Live demo
 
-- CodePen: [add your Pen link here]
+- CodePen: https://codepen.io/princeodoh566/pen/OPpgvqb
 - GitHub Pages: [add once deployed]
 
 ## Built with
